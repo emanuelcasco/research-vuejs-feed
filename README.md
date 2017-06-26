@@ -1,4 +1,4 @@
-# emamusic
+# Vuejs feed
 
 > A Vue.js project
 
